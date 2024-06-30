@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className='App-header'>
         <h1>Simple Code Editor</h1>
-        <a href=''>GitHub</a>
+        <a href='https://github.com/saurabh78crypto/simple-code-editor.git'>GitHub</a>
       </header>
       <CodeEditor />
     </div>
